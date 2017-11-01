@@ -24,6 +24,6 @@ If your like this plugin and you want to be maintained and improved more frequen
   - [ ] add sub-section for selected card to edit
 
 [1]: https://wordpress.org/
-[2]: #
+[2]: https://developer.wordpress.org/reference/functions/register_post_type/
 [3]: https://www.paypal.me/ondrejd
-[4]: #
+[4]: https://codex.wordpress.org/Theme_Customization_API
